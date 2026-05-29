@@ -1,0 +1,7 @@
+Mi primera práctica con Git y GitHub.
+
+Nombre: Jonathan Frayle
+Curso: Ingeniería de software
+Fecha: 5/28/2026---28/5/2026---May 28th 2026
+
+Estoy aprendiendo a usar control de versiones.
